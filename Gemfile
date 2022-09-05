@@ -72,3 +72,7 @@ group :test do
   gem "webdrivers"
 end
 
+#mis gemas 
+
+  gem "devise"
+
